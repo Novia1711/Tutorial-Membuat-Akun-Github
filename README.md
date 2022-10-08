@@ -1,4 +1,4 @@
-# Tutorial-Membuat-Akun-Github
+# Tutorial Membuat Akun Github
 ```
 Nama   : Novia Riska Aulia
 NIM    : 19.01.013.080
