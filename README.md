@@ -2,7 +2,7 @@
 ```
 Nama   : Novia Riska Aulia
 NIM    : 19.01.013.080
-Matkul : Sains Data
+MK     : Sains Data
 ```
 1. Buka situs https://github.com di browser web, lalu pilih daftar
    
