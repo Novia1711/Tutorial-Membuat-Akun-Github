@@ -18,7 +18,7 @@ Matkul : Sains Data
 5. Setelah Memverifikasi akun Anda, pilih tombol create account.
 6. Selanjutnya, GitHub mengirimkan kode ke alamat email Anda. Ketik kode tersebut dalam dialog Masukkan kode , lalu tekan Enter.
 7. GitHub akan mengajukan beberapa pertanyaan untuk membantu menyesuaikan pengalaman Anda. Pilih jawaban yang berlaku untuk Anda dalam dialog berikut:
-    ![image](https://user-images.githubusercontent.com/105399054/194691772-1e882baf-b477-4d5d-8f72-e9b73fc7e983.png) Berapa banyak anggota tim yang akan bekerja dengan Anda?
-    ![image](https://user-images.githubusercontent.com/105399054/194691778-c7da5dc8-fad6-41bf-a600-142483eebb45.png) Fitur spesifik apa yang Anda minati untuk digunakan?
+   Berapa banyak anggota tim yang akan bekerja dengan Anda?
+   Fitur spesifik apa yang Anda minati untuk digunakan?
 8. Akun github anda sudah bisa di pakai 
     ![image](https://user-images.githubusercontent.com/105399054/194691865-e307bf2d-6039-4fe2-82cc-a39296dc089e.png)
