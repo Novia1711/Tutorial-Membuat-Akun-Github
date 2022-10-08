@@ -6,12 +6,10 @@ Matkul : Sains Data
 ```
 1. Buka situs https://github.com di browser web, lalu pilih daftar
    
-   ![image](https://user-images.githubusercontent.com/105399054/194692241-1191356c-f79d-4482-b869-213ef87ab9bc.png)
-
+   ![image](https://user-images.githubusercontent.com/105399054/194692334-736a03ef-ca6b-4f53-be99-106de7538bc0.png)
 2. Masukan alamat email anda
 
-   ![image](https://user-images.githubusercontent.com/105399054/194692040-96d341e0-b870-4b5d-b7aa-ce03ac4ee89d.png)
-
+   ![image](https://user-images.githubusercontent.com/105399054/194692346-6594fa65-e694-4482-9070-43144307668a.png)
 3. Buat Password, Masukkan Username untuk akun GitHub baru Anda. Selanjutnya ketik Y pada Would you like to receive product updates and announcements via email? lalu pilih continue
 4. Verifikasi akun anda dengan menyelesaikan Puzzle
 5. Setelah memverifikasi akun anda, pilih tombol create account
