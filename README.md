@@ -6,7 +6,7 @@ Matkul : Sains Data
 ```
 1. Buka situs https://github.com di browser web, lalu pilih daftar
    
-  ![image](https://user-images.githubusercontent.com/105399054/194692241-1191356c-f79d-4482-b869-213ef87ab9bc.png)
+   ![image](https://user-images.githubusercontent.com/105399054/194692241-1191356c-f79d-4482-b869-213ef87ab9bc.png)
 
 2. Masukan alamat email anda
 
