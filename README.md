@@ -8,9 +8,9 @@ Matkul : Sains Data
    
    ![image](https://user-images.githubusercontent.com/105399054/194692334-736a03ef-ca6b-4f53-be99-106de7538bc0.png)
 2. Masukan alamat email anda
+3. Buat Password, Masukkan Username untuk akun GitHub baru Anda. Selanjutnya ketik Y pada Would you like to receive product updates and announcements via email? lalu pilih continue
 
    ![image](https://user-images.githubusercontent.com/105399054/194692346-6594fa65-e694-4482-9070-43144307668a.png)
-3. Buat Password, Masukkan Username untuk akun GitHub baru Anda. Selanjutnya ketik Y pada Would you like to receive product updates and announcements via email? lalu pilih continue
 4. Verifikasi akun anda dengan menyelesaikan Puzzle
 5. Setelah memverifikasi akun anda, pilih tombol create account
 6. Selanjutnya, GitHub mengirimkan kode ke alamat email Anda. Ketik kode tersebut dalam dialog Masukkan kode, lalu tekan Enter.
